@@ -1,0 +1,14 @@
+m:\DEV\Csharp-Arquivos\bin\Debug\net8.0\Csharp-Arquivos.exe
+M:\DEV\Csharp-Arquivos\bin\Debug\net8.0\Csharp-Arquivos.deps.json
+M:\DEV\Csharp-Arquivos\bin\Debug\net8.0\Csharp-Arquivos.runtimeconfig.json
+m:\DEV\Csharp-Arquivos\bin\Debug\net8.0\Csharp-Arquivos.dll
+m:\DEV\Csharp-Arquivos\bin\Debug\net8.0\Csharp-Arquivos.pdb
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.GeneratedMSBuildEditorConfig.editorconfig
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.AssemblyInfoInputs.cache
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.AssemblyInfo.cs
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.csproj.CoreCompileInputs.cache
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.dll
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\refint\Csharp-Arquivos.dll
+m:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.pdb
+M:\DEV\Csharp-Arquivos\obj\Debug\net8.0\Csharp-Arquivos.genruntimeconfig.cache
+M:\DEV\Csharp-Arquivos\obj\Debug\net8.0\ref\Csharp-Arquivos.dll
